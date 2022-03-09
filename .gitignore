@@ -1,0 +1,6 @@
+.terraform 
+*tfvars
+terraform.tfstate
+graph.dot
+graph.svg
+terraform.lock.hcl
